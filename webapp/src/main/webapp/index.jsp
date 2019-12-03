@@ -3,3 +3,4 @@
 <h2> Glad to see you here ON CLOUD FUTURES</h2>
 <h2>... makes spiffy HTML5 si te templates that are:</h2>
 <h3> Let hope for a new day </h3>
+<h3> Let hope for a better days ahead </h3>
